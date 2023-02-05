@@ -3,7 +3,7 @@ module github.com/tullo/otel-workshop-datadog
 go 1.19
 
 require (
-	github.com/tullo/otel-workshop v0.4.2
+	github.com/tullo/otel-workshop v1.0.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.47.0
 )
 
