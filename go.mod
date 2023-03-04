@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/tullo/otel-workshop v1.0.1
-	gopkg.in/DataDog/dd-trace-go.v1 v1.47.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.48.0
 )
 
 require (
@@ -23,6 +23,7 @@ require (
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/pprof v0.0.0-20210423192551-a2663126120b // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
@@ -41,9 +42,10 @@ require (
 	go.opentelemetry.io/otel/trace v1.13.0 // indirect
 	go4.org/intern v0.0.0-20211027215823-ae77deb06f29 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
-	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	google.golang.org/genproto v0.0.0-20200726014623-da3ae01ef02d // indirect
 	google.golang.org/grpc v1.32.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	inet.af/netaddr v0.0.0-20220617031823-097006376321 // indirect
