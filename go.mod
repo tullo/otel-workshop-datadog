@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/tullo/otel-workshop v1.0.1
-	gopkg.in/DataDog/dd-trace-go.v1 v1.50.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.50.1
 )
 
 require (
