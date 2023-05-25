@@ -8,6 +8,8 @@ github.com/DataDog/datadog-agent/pkg/obfuscate v0.43.0 h1:wWHh/c+AboewQcXQnCdyb3
 github.com/DataDog/datadog-agent/pkg/obfuscate v0.43.0/go.mod h1:o+rJy3B2o+Zb+wCgLSkMlkD7EiUEA5Q63cid53fZkQY=
 github.com/DataDog/datadog-agent/pkg/obfuscate v0.43.1 h1:HG4dOM6Ou+zZsaKC++4kpM9VGJ/TYo9X61LPz2mmjDE=
 github.com/DataDog/datadog-agent/pkg/obfuscate v0.43.1/go.mod h1:o+rJy3B2o+Zb+wCgLSkMlkD7EiUEA5Q63cid53fZkQY=
+github.com/DataDog/datadog-agent/pkg/obfuscate v0.45.0-rc.1 h1:XyYvstMFpSyZtfJHWJm1Sf1meNyCdfhKJrjB6+rUNOk=
+github.com/DataDog/datadog-agent/pkg/obfuscate v0.45.0-rc.1/go.mod h1:e933RWa4kAWuHi5jpzEuOiULlv21HcCFEVIYegmaB5c=
 github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.42.0-rc.1 h1:Rmz52Xlc5k3WzAHzD0SCH4USCzyti7EbK4HtrHys3ME=
 github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.42.0-rc.1/go.mod h1:VVMDDibJxYEkwcLdZBT2g8EHKpbMT4JdOhRbQ9GdjbM=
 github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.43.1 h1:1yg8/bJTJwwqwmQ+z9ctlqRJ09e7WjectGdtWlZvFYw=
@@ -24,6 +26,8 @@ github.com/DataDog/go-libddwaf v1.0.0 h1:C0cHE++wMFWf5/BDO8r/3dTDCj21U/UmPIT0PiF
 github.com/DataDog/go-libddwaf v1.0.0/go.mod h1:DI5y8obPajk+Tvy2o+nZc2g/5Ria/Rfq5/624k7pHpE=
 github.com/DataDog/go-libddwaf v1.1.0 h1:PhlI/31yxu88JEgTYqxffhd8oM4KQMfNWUVyICqIDMY=
 github.com/DataDog/go-libddwaf v1.1.0/go.mod h1:DI5y8obPajk+Tvy2o+nZc2g/5Ria/Rfq5/624k7pHpE=
+github.com/DataDog/go-libddwaf v1.2.0 h1:fKHP5U29E597eV2hU501fcW40bL8zcQ081jEGuRw2kM=
+github.com/DataDog/go-libddwaf v1.2.0/go.mod h1:DI5y8obPajk+Tvy2o+nZc2g/5Ria/Rfq5/624k7pHpE=
 github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork h1:yBq5PrAtrM4yVeSzQ+bn050+Ysp++RKF1QmtkL4VqvU=
 github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork/go.mod h1:yA5JwkZsHTLuqq3zaRgUQf35DfDkpOZqgtBqHKpwrBs=
 github.com/DataDog/gostackparse v0.5.0 h1:jb72P6GFHPHz2W0onsN51cS3FkaMDcjb0QzgxxA4gDk=
@@ -37,6 +41,8 @@ github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=
 github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
+github.com/cespare/xxhash/v2 v2.2.0 h1:DC2CZ1Ep5Y4k3ZQ899DldepgrayRUGE6BBZ/cd9Cj44=
+github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
@@ -334,6 +340,8 @@ gopkg.in/DataDog/dd-trace-go.v1 v1.50.0 h1:cokIz1cKIdcYgviL9ubTgpezTF9G6ZT9cxy7e
 gopkg.in/DataDog/dd-trace-go.v1 v1.50.0/go.mod h1:sw4gV8LIXseC5ISMbDJmm79OJDdl8I2Hhtelb6lpHuQ=
 gopkg.in/DataDog/dd-trace-go.v1 v1.50.1 h1:DUpHhh+MHtpYnUyGr5rpfvKUXkRg93TSEHii/LZVF6g=
 gopkg.in/DataDog/dd-trace-go.v1 v1.50.1/go.mod h1:sw4gV8LIXseC5ISMbDJmm79OJDdl8I2Hhtelb6lpHuQ=
+gopkg.in/DataDog/dd-trace-go.v1 v1.51.0 h1:nFsTjolqdh8slG6F1B7AGdFHX7/kp26Jkb8UvGSIIFY=
+gopkg.in/DataDog/dd-trace-go.v1 v1.51.0/go.mod h1:+m1wWLyQfqd6fX0uy6YFbP1soWgmjQ+5TveksDt/fHc=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c h1:Hei/4ADfdWqJk1ZMxUNpqntNwaWcugrBjAiHlqqRiVk=
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c/go.mod h1:JHkPIbrfpd72SG/EVd6muEfDQjcINNoR0C8j2r3qZ4Q=
