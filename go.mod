@@ -3,7 +3,8 @@ module github.com/tullo/otel-workshop-datadog
 go 1.19
 
 require (
-	github.com/tullo/otel-workshop v1.0.1
+	github.com/tullo/otel-workshop v1.0.3
+	github.com/tullo/otel-workshop/web/fib v1.0.3
 	gopkg.in/DataDog/dd-trace-go.v1 v1.52.0
 )
 
@@ -38,7 +39,7 @@ require (
 	github.com/secure-systems-lab/go-securesystemslib v0.6.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/tinylib/msgp v1.1.6 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.38.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0 // indirect
 	go.opentelemetry.io/otel v1.16.0 // indirect
 	go.opentelemetry.io/otel/metric v1.16.0 // indirect
