@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	gopkg.in/DataDog/dd-trace-go.v1 v1.59.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.60.0
 )
 
 require (
@@ -48,7 +48,7 @@ require (
 	go4.org/intern v0.0.0-20230525184215-6c62f75575cb // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/time v0.4.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
