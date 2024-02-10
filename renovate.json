@@ -10,7 +10,10 @@
     }
   ],
   "automerge": true,
-  "automergeType": "branch",
-  "automergeStrategy": "rebase",
-  "commitBodyTable": true  
+  "autoApprove": true,
+  "dependencyDashboardApproval": false,
+  "patch": {"autoApprove": true, "automerge": true},
+  "postUpdateOptions": ["gomodTidy"],
+  "constraints": {"go": "1.21"},
+  "ignoreTests": true
 }
