@@ -1,6 +1,6 @@
 module github.com/tullo/otel-workshop-datadog
 
-go 1.21
+go 1.22
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
