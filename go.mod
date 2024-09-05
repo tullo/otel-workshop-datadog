@@ -4,7 +4,7 @@ go 1.22
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	gopkg.in/DataDog/dd-trace-go.v1 v1.67.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.67.1
 )
 
 require (
