@@ -1,10 +1,12 @@
 module github.com/tullo/otel-workshop-datadog
 
-go 1.22
+go 1.22.0
+
+toolchain go1.22.7
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	gopkg.in/DataDog/dd-trace-go.v1 v1.67.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.68.0
 )
 
 require (
