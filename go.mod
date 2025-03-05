@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-datadog
 
 go 1.22.0
 
-toolchain go1.24.0
+toolchain go1.24.1
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
