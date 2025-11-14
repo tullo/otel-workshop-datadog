@@ -6,7 +6,7 @@ toolchain go1.25.4
 
 require (
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	gopkg.in/DataDog/dd-trace-go.v2 v2.3.1
+	gopkg.in/DataDog/dd-trace-go.v2 v2.4.0
 )
 
 require (
